@@ -1,0 +1,2 @@
+## ReadMe
+LangChainBook与我的gitbook的LangChain空间相关联
